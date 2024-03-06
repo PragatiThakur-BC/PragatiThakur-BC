@@ -1,5 +1,5 @@
 # 👋  Hi, there I’m Pragati Thakur
-- :mortar_board: I'm a Junior Sofware Engineer passionate about Data Science, Machine Learning and Web development.
+- :mortar_board: I'm a Sofware Engineer passionate about Data Science, Machine Learning.
 - 👀 What Captivates me : Big Data, AI, Data Science.
 - 🌱 I’m currently learning latest backend development frameworks and tools (python, FastApi, SqlAlchemy)
 - :zap: Fun fact: I'm a coffee enthusiast :coffee:
